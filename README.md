@@ -1,7 +1,11 @@
 <h1 align="center">
 
 Hi 👋, I'm Alvaroggm123</h1>
-<h3 align="center">  🙏About.md🙏  </h3>
+<h3 align="center">
+  🙏About.md🙏  
+  <img src="./pictures/MainPet.png " width = "400"/>
+</h3>
+
 
 - 🔭 I’m currently working on [USMEX](usmex.mx) as a IT administrator.
 
@@ -33,6 +37,9 @@ Hi 👋, I'm Alvaroggm123</h1>
 
 <h1>Class schedule</h1>
 <p align="center">
+
+
+  <img src="https://www.tijuana.tecnm.mx/wp-content/uploads/2014/11/Heading-Ing-sistemas.png " width = "400" align="center">
 
 |       	| Monday                                       	| Tursday                                      	| Wednesday                                    	| Thursday                                     	| Friday                                       	|   	|
 |-------	|----------------------------------------------	|----------------------------------------------	|----------------------------------------------	|----------------------------------------------	|----------------------------------------------	|---	|
