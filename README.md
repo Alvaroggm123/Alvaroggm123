@@ -39,7 +39,7 @@ Hi 👋, I'm Alvaroggm123</h1>
 <p align="center">
 
 
-  <img src="https://www.tijuana.tecnm.mx/wp-content/uploads/2014/11/Heading-Ing-sistemas.png " width = "400" align="center">
+  <img src="./pictures/isc.png " width = "400" align="center">
 
 |       	| Monday                                       	| Tursday                                      	| Wednesday                                    	| Thursday                                     	| Friday                                       	|   	|
 |-------	|----------------------------------------------	|----------------------------------------------	|----------------------------------------------	|----------------------------------------------	|----------------------------------------------	|---	|
