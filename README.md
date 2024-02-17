@@ -5,9 +5,6 @@ Hi 👋, I'm Alvaroggm123</h1>
   Who am i?
 </h3>
 
-
-- 🔭 I’m currently working on [USMEX](https://usmex.mx/) as a [systems administrator](mailto:a.gonzalez@usmex.mx).
-
 - 👨‍💻 All of my projects are available at [GitHub](github.com/Alvaroggm123).
 
 - 📫 You can reach me by sending me an email to **[a.gonzalez@glassesfriends.com](mailto:a.gonzalez@glassesfriends.com)**
